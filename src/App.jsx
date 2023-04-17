@@ -1,7 +1,7 @@
 import Header from './Components/Header'
 import Nav from './Components/Nav'
 import Meio from './Components/Meio'
-import Produtos from './Components/produtos'
+import Produtos2 from './Components/produtos2'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
       <Header />
       <Nav />
       <Meio />
-      <Produtos/>
+      <Produtos2/>
     </div>
   )
 }
