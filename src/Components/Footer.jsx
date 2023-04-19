@@ -1,11 +1,10 @@
 import Logo from '../assets/logo.png';
-import Instagram from '../assets/instagram.svg'
-import Facebook from '../assets/facebook.svg'
-import Github from '../assets/github.svg'
-import Twitter from '../assets/twitter.svg'
-import Youtube from '../assets/youtube.svg'
-import Pix from '../assets/pix.webp'
-
+import Instagram from '../assets/instagram.svg';
+import Facebook from '../assets/facebook.svg';
+import Github from '../assets/github.svg';
+import Youtube from '../assets/youtube.svg';
+import Twitter from '../assets/twitter.svg';
+import Pix from '../assets/Pix.webp';
 
 function Footer () {
     return (
