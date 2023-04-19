@@ -106,13 +106,6 @@ function Produtos2(){
             pagamento="ou em até 3 x de R$ 16,20 sem juros"
             />
 
-
-
-
-
-
-
-
         </div>
     )
 }
