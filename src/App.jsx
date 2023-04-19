@@ -3,6 +3,7 @@ import Nav from './Components/Nav'
 import Meio from './Components/Meio'
 import Produtos2 from './Components/produtos2'
 import Inscreva from './Components/Inscrevase'
+import Footer from './Components/Footer'
 
 function App() {
 
@@ -13,7 +14,7 @@ function App() {
       <Meio />
       <Produtos2/>
       <Inscreva />
-      
+      <Footer/>
     </div>
   )
 }
