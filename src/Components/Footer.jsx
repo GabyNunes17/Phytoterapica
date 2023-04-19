@@ -4,7 +4,6 @@ import Facebook from '../assets/facebook.svg';
 import Github from '../assets/github.svg';
 import Youtube from '../assets/youtube.svg';
 import Twitter from '../assets/twitter.svg';
-import Pix from '../assets/Pix.webp';
 
 function Footer () {
     return (
@@ -34,7 +33,6 @@ function Footer () {
 
                     <img src="https://phytoterapica.vtexassets.com/assets/vtex/assets-builder/phytoterapica.tema-phytoterapica/4.0.24/imgs/Hiper___658b71e8411115a860ee510afe937605.png" />
 
-                    <img src={Pix} />
 
                 </div>
             </div>
